@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Yazı Tura</string>
+    <string name="parayi_at">PARAYI AT</string>
+    <string name="money_image">money_image</string>
+    <string name="statistik">İstatistik</string>
+    <string name="tura">TURA</string>
+    <string name="yazi">YAZI</string>
+    <string name="yaziNum">TextView</string>
+    <string name="turaNum">TextView</string>
+</resources>
